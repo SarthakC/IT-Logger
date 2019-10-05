@@ -1,32 +1,11 @@
 {
   "logs": [
     {
-      "message": "Learn React",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-10-05T23:19:22.068Z",
-      "id": 1
-    },
-    {
-      "message": "Learn Redux",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-10-05T23:19:34.126Z",
-      "id": 2
-    },
-    {
       "message": "Learn DS Algo",
       "attention": true,
       "tech": "",
       "date": "2019-10-05T23:19:46.117Z",
       "id": 3
-    },
-    {
-      "message": "Setup LED Strips",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-10-05T23:20:09.274Z",
-      "id": 4
     }
   ],
   "techs": [
