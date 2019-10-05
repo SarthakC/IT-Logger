@@ -1,25 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Learn React",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2019-10-05T23:19:22.068Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Learn Redux",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "tech": "Sam Smith",
+      "date": "2019-10-05T23:19:34.126Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Learn DS Algo",
+      "attention": true,
+      "tech": "",
+      "date": "2019-10-05T23:19:46.117Z",
+      "id": 3
+    },
+    {
+      "message": "Setup LED Strips",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sara Wilson",
+      "date": "2019-10-05T23:20:09.274Z",
+      "id": 4
     }
   ],
   "techs": [
