@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Learn DS Algo",
-      "attention": true,
-      "tech": "",
-      "date": "2019-10-05T23:19:46.117Z",
-      "id": 3
+      "id": 4,
+      "message": "Learn Redux",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-10-06T00:09:08.356Z"
     }
   ],
   "techs": [
